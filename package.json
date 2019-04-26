@@ -1,0 +1,27 @@
+{
+  "name": "SchemaJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffryBooher/SchemaJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffryBooher/SchemaJS/issues"
+  },
+  "homepage": "https://github.com/JeffryBooher/SchemaJS#readme",
+  "dependencies": {
+    "ajv": "^6.10.0",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
